@@ -1,6 +1,8 @@
-## The Python Mega Course: Build 10 Real World Applications
+## Application 2 Create Webmaps with Python and Folium
 
-[Link to the course](https://www.udemy.com/course/the-python-mega-course/)
+```
+pip install folium
+```
 
-### Instructions
-All exercises are performed in the branches
+[Quickstart](https://python-visualization.github.io/folium/quickstart.html)
+[Mapping Points with Folium](https://georgetsilva.github.io/posts/mapping-points-with-folium/)
