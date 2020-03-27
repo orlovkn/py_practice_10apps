@@ -5,4 +5,5 @@ pip install folium
 ```
 
 [Quickstart](https://python-visualization.github.io/folium/quickstart.html)
+
 [Mapping Points with Folium](https://georgetsilva.github.io/posts/mapping-points-with-folium/)
